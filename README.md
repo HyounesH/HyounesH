@@ -45,11 +45,16 @@ I’m **Younes HAMDANE**, a Senior Full‑Stack Java Engineer passionate about C
 
 ## 🏆 GitHub Trophies
 
-![trophy]([https://github-profile-trophy.vercel.app/?username=HyounesH&theme=tokyonight](https://github-profile-trophy.vercel.app/?username=HyounesH&theme=tokyonight)
+*The GitHub Trophy service is currently unstable, so here’s an alternative badge-style display instead:*
+
+![Achievements](https://img.shields.io/badge/GitHub-Achievements-blue?logo=github)
+![Stars](https://img.shields.io/github/stars/HyounesH?style=social)
+![Followers](https://img.shields.io/github/followers/HyounesH?style=social)
 
 ## 📊 GitHub Stats
 
----
+![HyounesH's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyounesH\&show_icons=true\&theme=gruvbox\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyounesH\&layout=compact\&theme=gruvbox\&hide_border=true)
 
 ## 🔥 Activity Graph
 
