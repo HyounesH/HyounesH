@@ -23,7 +23,7 @@ I’m **Younes HAMDANE**, a Senior Full‑Stack Java Engineer passionate about C
 * 🧪 Passionate about Architecture, **serverless**, and **Kubernetes**
 * 📝 Building an **AI agent** to auto‑publish Google Trends content to WordPress
 * 🗄️ Working with MariaDB, Liquibase, Go, and Makefile tooling
-* 🎨 Frontend enthusiast using Chakra UI and custom UI components
+* 🎨 Frontend developer with reactJs, redux toolkit, Angular, ngrx, signal store, typescipt ...
 
 ---
 
