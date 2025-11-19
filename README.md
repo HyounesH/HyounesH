@@ -45,7 +45,7 @@ I’m **Younes HAMDANE**, a Senior Full‑Stack Java Engineer passionate about C
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=HyounesH\&theme=gruvbox\&margin-w=10)
+![trophy]([https://github-profile-trophy.vercel.app/?username=HyounesH&theme=tokyonight](https://github-profile-trophy.vercel.app/?username=HyounesH&theme=tokyonight)
 
 ## 📊 GitHub Stats
 
